@@ -1,0 +1,22 @@
+/* ==========================================================================
+   SHARP CUTS — NIGERIAN EXECUTIVE GROOMING LOUNGE (LEKKI, LAGOS)
+   Design System: Afro-Metropolitan Luxury (#0A0A0C Obsidian & #D4AF37 Gold)
+   ========================================================================== */
+
+:root {
+  --bg-obsidian: #0A0A0C;
+  --bg-charcoal: #131418;
+  --bg-elevated: #1C1E24;
+  --text-primary: #F5F5F7;
+  --text-secondary: #A1A1AA;
+  --text-muted: #71717A;
+  --gold-primary: #D4AF37;
+  --gold-hover: #E5C158;
+  --gold-bronze: #996515;
+  --whatsapp-green: #25D366;
+  --danger-crimson: #EF4444;
+}
+
+html {
+  scroll-behavior: smooth;
+}
